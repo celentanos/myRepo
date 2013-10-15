@@ -30,5 +30,4 @@ public class Multiplikation {
 		}
 		System.out.println(akku);
 	}
-
 }
