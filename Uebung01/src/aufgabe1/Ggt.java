@@ -8,9 +8,9 @@ public class Ggt {
 Scanner input = new Scanner(System.in);		
 		
 int n , m , r;
-System.out.println("x= ");
+System.out.print("x = ");
 int x = input.nextInt();
-System.out.println("y= ");
+System.out.print("y = ");
 int y = input.nextInt();
 n = x; m = y;
 r = n % m;
