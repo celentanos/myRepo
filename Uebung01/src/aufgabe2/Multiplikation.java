@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Multiplikation {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		Scanner input = new Scanner(System.in);		
 		
 		int akku = 0;
@@ -18,7 +18,6 @@ public class Multiplikation {
 		}
 		while (x > 0) {
 			if (x % 2 == 0){
-//				akku = akku;
 				x = x / 2;
 				y = y * 2;
 			}
