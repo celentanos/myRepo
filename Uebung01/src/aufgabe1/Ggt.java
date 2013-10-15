@@ -21,5 +21,4 @@ while (r!=0){
 }
 System.out.println( "Der ggT von "+ x +" und "+ y +" ist "+ m);
 	}
-
 }
