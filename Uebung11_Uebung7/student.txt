@@ -1,0 +1,10 @@
+0	12345	m	Alex	Meier	100	IMN
+1	12346	m	Apfel	Baum	90	IMN
+2	12347	m	Max	Meier	78	BAU
+3	12348	w	Andre	Meier	67	BAU
+4	12349	m	Tino	Schulz	56	IMN
+5	12350	m	Mihael	Meier	45	MED
+6	12351	w	Andreas	Meier	230	MED
+7	12352	m	Chris	Rohth	23	BAU
+8	12353	m	Philipp	Eling	14	MED
+9	12354	m	Ricardo	Schade	670	IMN

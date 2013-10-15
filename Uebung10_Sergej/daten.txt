@@ -1,0 +1,8 @@
+/*konten.put(1002345, new Konto(1002345,100,1000));
+		konten.put(1237545, new Konto(1237545,1000,1000));
+		konten.put(1111999, new Konto(1111999,-570,1000));
+		konten.put(1066645, new Konto(1066645,11100,1000));
+		konten.put(9873468, new Konto(9873468,1890,1000));
+		konten.put(1954329, new Konto(1954329,-200,1000));
+		
+		writekonten();*/
