@@ -8,9 +8,9 @@ public class Multiplikation {
 		Scanner input = new Scanner(System.in);		
 		
 		int akku = 0;
-		System.out.println("x= ");
+		System.out.print("x = ");
 		int x = input.nextInt();
-		System.out.println("y= ");
+		System.out.print("y = ");
 		int y = input.nextInt();
 		if (x < 0){
 			x = -x;
