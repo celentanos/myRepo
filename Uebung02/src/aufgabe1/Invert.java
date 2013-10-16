@@ -35,5 +35,4 @@ public class Invert {
 		}
 		System.out.print("Feldlaenge: " + a.length);
 	}
-
 }
